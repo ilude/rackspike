@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.5.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] diff-lcs (v1.1.2, C:/Ruby192/lib/ruby/gems/1.9.1/gems/diff-lcs-1.1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.5.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.5.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.5.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-core-2.5.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack (v1.2.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] warden (v1.0.3, C:/Ruby192/lib/ruby/gems/1.9.1/gems/warden-1.0.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tilt (v1.2.2, C:/Ruby192/lib/ruby/gems/1.9.1/gems/tilt-1.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sinatra (v1.2.0.a, C:/Ruby192/lib/ruby/gems/1.9.1/gems/sinatra-1.2.0.a)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] haml (v3.1.0.alpha.147, C:/Ruby192/lib/ruby/gems/1.9.1/gems/haml-3.1.0.alpha.147)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nakajima-rack-flash (v0.1.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/nakajima-rack-flash-0.1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino-mailer (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-mailer-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] http_router (v0.5.3, C:/Ruby192/lib/ruby/gems/1.9.1/gems/http_router-0.5.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino-admin (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-admin-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] polyglot (v0.3.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/polyglot-0.3.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] treetop (v1.4.9, C:/Ruby192/lib/ruby/gems/1.9.1/gems/treetop-1.4.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] thor (v0.14.6, C:/Ruby192/lib/ruby/gems/1.9.1/gems/thor-0.14.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] git (v1.2.5, C:/Ruby192/lib/ruby/gems/1.9.1/gems/git-1.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino-helpers (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-helpers-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.3, C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mail (v2.2.15, C:/Ruby192/lib/ruby/gems/1.9.1/gems/mail-2.2.15)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino-gen (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-gen-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] url_mount (v0.2.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/url_mount-0.2.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mime-types (v1.16, C:/Ruby192/lib/ruby/gems/1.9.1/gems/mime-types-1.16)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.5.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/i18n-0.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] padrino-core (v0.9.20, C:/Ruby192/lib/ruby/gems/1.9.1/gems/padrino-core-0.9.20)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.0.10, C:/Ruby192/lib/ruby/gems/1.9.1/gems/bundler-1.0.10)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tzinfo (v0.3.24, C:/Ruby192/lib/ruby/gems/1.9.1/gems/tzinfo-0.3.24)" level="application" />
+  </component>
+</module>
+
